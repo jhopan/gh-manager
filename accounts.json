@@ -1,0 +1,14 @@
+{
+  "accounts": [
+    {
+      "username": "jhopan",
+      "role": "primary",
+      "protocol": "https",
+      "sshAlias": null,
+      "sshKey": null,
+      "email": "jhosuaarmandoputrapanjaitan@gmail.com",
+      "gitProtocol": "https",
+      "addedAt": "2026-10-21"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "gh-manager",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Multi-akun GitHub manager: SSH key, gh auth, git remote routing",
+  "bin": {
+    "ghm": "gh-manager.js"
+  },
+  "scripts": {
+    "list": "node gh-manager.js list",
+    "check": "node gh-manager.js check",
+    "doctor": "node gh-manager.js doctor",
+    "docs": "node gh-manager.js docs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
